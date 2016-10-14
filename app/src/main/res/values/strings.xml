@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CTM Wireless</string>
+    <string name="txtTitle">Come Together Media Wireless</string>
+    <string name="txtPlan">Choose a Plan</string>
+    <string name="txtUnlimited">Unlimited Talk and Text</string>
+    <string name="btnData1">1 GB   $30</string>
+    <string name="btnData3">3 GB   $40</string>
+    <string name="btnData5">5 GB   $50</string>
+    <string name="btnData10">10 GB $60</string>
+    <string name="noActFee">No Activation Fee for Online Orders</string>
+    <string name="switchProvider">Switch and Save up to 50% on Most Verizon, ATnT or T-Mobile</string>
+    <string name="freePhone">Free Phone with 2 Month\'s Payment in Advance</string>
+    <string name="minReqForPhone">* Minimum Plan for Offer is $40 Plan</string>
+    <string name="txtDiscount">Note: Choose more than 1 offer, get a 10% Discount for 6 months</string>
+    <string name="txtDuration">Discount Applicable for 6 Months</string>
+    <string name="btnGetStarted">Your Cost</string>
+</resources>
